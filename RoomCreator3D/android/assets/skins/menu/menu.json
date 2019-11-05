@@ -1,0 +1,23 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	comic-white: {
+		file: comic-white.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	RGBA_255_255_255_255: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: comic-white
+		fontColor: RGBA_255_255_255_255
+		up: button-up
+		down: button-down
+	}
+}
+}

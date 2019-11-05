@@ -1,0 +1,143 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	comic-black: {
+		file: comic-black.fnt
+	}
+	comic-white: {
+		file: comic-white.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	RGBA_213_249_247_255: {
+		r: 0.8362667
+		g: 0.98
+		b: 0.9702022
+		a: 1
+	}
+	RGBA_255_255_255_255: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	back: {
+		up: back-up
+		down: back-down
+	}
+	next: {
+		up: next-up
+		down: next-down
+	}
+	edit: {
+		up: edit-up
+		down: edit-down
+	}
+	add: {
+		up: add-up
+		down: add-down
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+	default: {
+		imageUp: multiply
+		imageDown: multiply
+		up: multiply
+		down: multiply
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: comic-white
+		fontColor: RGBA_255_255_255_255
+		background: scroll-up
+	}
+	null: {
+		font: comic-white
+		fontColor: RGBA_255_255_255_255
+		background: "null"
+	}
+	dimension: {
+		font: comic-white
+		fontColor: RGBA_255_255_255_255
+		background: textfield
+	}
+	exception: {
+		font: comic-white
+		fontColor: RGBA_255_255_255_255
+		background: textfield-exception
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
+	default: {
+		background: textfield
+		vScroll: vertical-scroll
+		vScrollKnob: vertical-scroll-knob
+	}
+	chooser: {
+		background: "null"
+		vScroll: vertical-scroll
+		vScrollKnob: vertical-scroll-knob
+	}
+	furniture-chooser: {
+		background: scroll-up
+		vScroll: vertical-scroll
+		vScrollKnob: vertical-scroll-knob-green
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: comic-white
+		fontColor: RGBA_255_255_255_255
+		up: button-up
+		down: button-down
+	}
+	exception: {
+		font: comic-white
+		fontColor: RGBA_255_255_255_255
+		up: scroll-up
+		down: scroll-up
+	}
+	scroll: {
+		font: comic-white
+		fontColor: RGBA_255_255_255_255
+		up: scroll-up
+		down: scroll-down
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
+	default: {
+		font: comic-white
+		fontColor: RGBA_255_255_255_255
+		background: textfield
+		cursor: cursor
+		selection: selection
+	}
+	exception: {
+		font: comic-white
+		fontColor: RGBA_255_255_255_255
+		background: textfield-exception
+		cursor: cursor
+		selection: selection
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+	default: {
+		label: default
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Tree$TreeStyle: {
+	default: {
+		plus: tree-plus
+		minus: tree-minus
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+	default: {
+		background: window
+		titleFont: comic-white
+		titleFontColor: RGBA_255_255_255_255
+	}
+}
+}

@@ -1,0 +1,131 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	comic-black: {
+		file: comic-black.fnt
+	}
+	comic-white: {
+		file: comic-white.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	RGBA_179_179_179_255: {
+		r: 0.70333326
+		g: 0.70333326
+		b: 0.70333326
+		a: 1
+	}
+	RGBA_243_243_243_255: {
+		r: 0.95666665
+		g: 0.95666665
+		b: 0.95666665
+		a: 1
+	}
+	RGBA_255_255_255_255: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	create-floor-button-pressed: {
+		name: create-floor-button
+		color: {
+			r: 0.95686275
+			g: 0.95686275
+			b: 0.95686275
+			a: 1
+		}
+	}
+	create-walls-button-pressed: {
+		name: create-walls-button
+		color: {
+			r: 0.95686275
+			g: 0.95686275
+			b: 0.95686275
+			a: 1
+		}
+	}
+	save-button-pressed: {
+		name: save-button
+		color: {
+			r: 0.95686275
+			g: 0.95686275
+			b: 0.95686275
+			a: 1
+		}
+	}
+	import-button-pressed: {
+		name: import-button
+		color: {
+			r: 0.95686275
+			g: 0.95686275
+			b: 0.95686275
+			a: 1
+		}
+	}
+	add-button-up-disabled: {
+		name: add-button-up
+		color: RGBA_179_179_179_255
+	}
+	back-button-up-disabled: {
+		name: back-button-up
+		color: RGBA_179_179_179_255
+	}
+	create-floor-button-disabled: {
+		name: create-floor-button
+		color: RGBA_179_179_179_255
+	}
+	create-walls-button-disabled: {
+		name: create-walls-button
+		color: RGBA_179_179_179_255
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	add: {
+		up: add-button-up
+		down: add-button-down
+	}
+	back: {
+		up: back-button-up
+		down: back-button-down
+	}
+	createfloor: {
+		up: create-floor-button
+		down: create-floor-button-pressed
+	}
+	createwalls: {
+		up: create-walls-button
+		down: create-walls-button-pressed
+	}
+	save: {
+		up: save-button
+		down: save-button-pressed
+	}
+	import: {
+		up: import-button
+		down: import-button-pressed
+	}
+	add-disabled: {
+		up: add-button-up-disabled
+	}
+	back-disabled: {
+		up: back-button-up-disabled
+	}
+	createfloor-disabled: {
+		up: create-floor-button-disabled
+	}
+	createwalls-disabled: {
+		up: create-walls-button-disabled
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: comic-white
+		fontColor: RGBA_255_255_255_255
+		downFontColor: RGBA_243_243_243_255
+		up: "null"
+		down: "null"
+	}
+}
+}

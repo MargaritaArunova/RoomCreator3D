@@ -1,0 +1,99 @@
+
+settings.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back-down
+  rotate: false
+  xy: 1, 165
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+back-up
+  rotate: false
+  xy: 515, 679
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+checked-down
+  rotate: false
+  xy: 515, 597
+  size: 80, 80
+  split: 50, 28, 0, 0
+  pad: 51, 28, 0, 0
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+checked-up
+  rotate: false
+  xy: 1, 83
+  size: 80, 80
+  split: 52, 25, 0, 0
+  pad: 54, 25, 0, 0
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+lable
+  rotate: false
+  xy: 597, 597
+  size: 80, 80
+  split: 24, 24, 24, 24
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+sound-off-down
+  rotate: false
+  xy: 1, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+sound-off-up
+  rotate: false
+  xy: 83, 83
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+sound-on-down
+  rotate: false
+  xy: 185, 165
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+sound-on-up
+  rotate: false
+  xy: 515, 515
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+unchecked-down
+  rotate: false
+  xy: 617, 679
+  size: 80, 80
+  split: 50, 28, 0, 0
+  pad: 51, 28, 0, 0
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+unchecked-up
+  rotate: false
+  xy: 103, 165
+  size: 80, 80
+  split: 52, 25, 0, 0
+  pad: 54, 25, 0, 0
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+comic-white
+  rotate: false
+  xy: 1, 247
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1

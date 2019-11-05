@@ -1,0 +1,117 @@
+{
+com.badlogic.gdx.graphics.Color: {
+	RGBA_178_178_178_255: {
+		r: 0.7
+		g: 0.7
+		b: 0.7
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	left-up-disabled: {
+		name: left-up
+		color: RGBA_178_178_178_255
+	}
+	knob-up-disabled: {
+		name: knob-up
+		color: RGBA_178_178_178_255
+	}
+	down-up-disabled: {
+		name: down-up
+		color: RGBA_178_178_178_255
+	}
+	right-up-disabled: {
+		name: right-up
+		color: RGBA_178_178_178_255
+	}
+	slider-disabled: {
+		name: slider
+		color: RGBA_178_178_178_255
+	}
+	up-up-disabled: {
+		name: up-up
+		color: RGBA_178_178_178_255
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	left: {
+		up: left-up
+		down: left-down
+	}
+	right: {
+		up: right-up
+		down: right-down
+	}
+	down: {
+		up: down-up
+		down: down-down
+	}
+	up: {
+		up: up-up
+		down: up-down
+	}
+	plus: {
+		up: plus-up
+		down: pus-down
+	}
+	minus: {
+		up: minus-up
+		down: minus-down
+	}
+	left-disabled: {
+		up: left-up-disabled
+	}
+	right-disabled: {
+		up: right-up-disabled
+	}
+	down-disabled: {
+		up: down-up-disabled
+	}
+	up-disabled: {
+		up: up-up-disabled
+	}
+	arrow-up: {
+		up: up-arrow-up
+		down: up-arrow-down
+	}
+	arrow-down: {
+		up: down-arrow-up
+		down: down-arrow-down
+	}
+	arrow-left: {
+		up: left-arrow-up
+		down: left-arrow-down
+	}
+	arrow-right: {
+		up: right-arrow-up
+		down: right-arrow-down
+	}
+	rotate-y: {
+		up: rotate-y-up
+		down: rotate-y-down
+	}
+	rotate-x: {
+		up: rotate-x-up
+		down: rotate-x-down
+	}
+	rotate-z: {
+		up: rotate-z-up
+		down: rotate-z-down
+	}
+	ok: {
+		up: ok-up
+		down: ok-down
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+	default-vertical: {
+		knobDown: knob-down
+		background: slider
+		knob: knob-up
+	}
+	vertical-disabled: {
+		background: slider-disabled
+		knob: knob-up-disabled
+	}
+}
+}

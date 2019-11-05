@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+    <lang key="en">
+        <string key="LanguageField">Language:</string>
+        <string key="SoundField">Sound:</string>
+        <string key="Language">English</string>
+
+        <string key="Settings">Settings</string>
+        <string key="Exit">Exit</string>
+        <string key="Create new room">New room</string>
+
+        <string key="ButtonSave">Save</string>
+        <string key="ButtonDelete">Don't save</string>
+        <string key="ButtonCancel">Cancel</string>
+
+        <string key="Import">Import</string>
+        <string key="Create floor">Create floor</string>
+        <string key="Create walls">Create walls</string>
+        <string key="Save">Save</string>
+
+        <string key="Exception_1">Unable to import a room\(there is already one room\on the field)</string>
+        <string key="Exception_2">Unable to create a floor\(there is already a floor\on the field)</string>
+        <string key="Exception_3">Unable to create walls\(no floor created yet or\walls already created)</string>
+        <string key="Exception_4">Unable to save a room\(invalid file name specified)</string>
+        <string key="Exception_5">Unable to save a room\(there is nothing to save)</string>
+        <string key="Exception_6">Unable to load 3D model</string>
+        <string key="Exception_7">unable to load the room completely\(paths to some of its parts are incorrect)</string>
+
+        <string key="Input_1">Enter the length and width of your room\(values should be indicated in meters)</string>
+        <string key="Input_2">Enter the height of your room\(values should be indicated in meters)</string>
+        <string key="Input_3">Enter room name</string>
+        <string key="Input_4">Enter the width and length of\the picture (values should be\indicated in meters)</string>
+
+        <string key="Input_Exception_1">Invalid value specified</string>
+        <string key="Input_Exception_2">The value entered is too large\(input values must not be\more than 10 meters)</string>
+        <string key="Input_Exception_3">The value entered is too small\(input values must be\more than 2 meters)</string>
+        <string key="Input_Exception_4">The value entered is too large\(input values must not be\more than 5 meters)</string>
+        <string key="Input_Exception_5">Invalid file name specified\(there is already a room\with this name)</string>
+        <string key="Input_Exception_6">The value entered is too large\(input values must not be\more than 5 meters)</string>
+        <string key="Input_Exception_7">The value entered is too small\(input values must be\more than 0.2 meters)</string>
+
+        <string key="Information">Do you want to save changes?</string>
+
+        <string key="FileChoosing">Choose the file:</string>
+        <string key="Nothing to show">Nothing to show</string>
+
+        <string key="Furniture_1">Furniture name</string>
+        <string key="Furniture_2">Furniture texture</string>
+
+        <string key="Format_1">OBJ-file</string>
+        <string key="Format_2">PNG-file</string>
+        <string key="Format_3">MTL-file</string>
+
+        <string key="Floor">Floor</string>
+        <string key="Wall">Wall</string>
+        <string key="Furniture">Furniture</string>
+
+        <string key="Dimension_1">Width</string>
+        <string key="Dimension_2">Length</string>
+        <string key="Dimension_3">Height</string>
+        <string key="Dimension_4">Material</string>
+        <string key="Dimension_5">Dimensions</string>
+        <string key="Dimension_6">Furniture</string>
+
+        <string key="Number_1">First</string>
+        <string key="Number_2">Second</string>
+        <string key="Number_3">Third</string>
+        <string key="Number_4">Fourth</string>
+
+        <string key="Room_name_1">Living room</string>
+        <string key="Room_name_2">Bedroom</string>
+        <string key="Room_name_3">Kitchen</string>
+        <string key="Room_name_4">Bathroom</string>
+        <string key="Room_name_5">Hallway</string>
+    </lang>
+
+
+    <lang key="ru">
+        <string key="LanguageField">Язык:</string>
+        <string key="SoundField">Звук:</string>
+        <string key="Language">Русский</string>
+
+        <string key="Settings">Настроики</string>
+        <string key="Exit">Выход</string>
+        <string key="Create new room">Новая комната</string>
+
+        <string key="ButtonSave">Сохранить</string>
+        <string key="ButtonDelete">Не сохранять</string>
+        <string key="ButtonCancel">Отмена</string>
+
+        <string key="Import">Импортировать</string>
+        <string key="Create floor">Создать пол</string>
+        <string key="Create walls">Создать стены</string>
+        <string key="Save">Сохранить</string>
+
+        <string key="Exception_1">Невозможно импортировать комнату\(на поле уже есть одна комната)</string>
+        <string key="Exception_2">Невозможно создать пол\(на поле уже есть пол)</string>
+        <string key="Exception_3">Невозможно создать стены\(пол ещё не создан или\стены уже созданы)</string>
+        <string key="Exception_4">Невозможно сохранить комнату\(указано неверное имя файла)</string>
+        <string key="Exception_5">Невозможно сохранить комнату\(сохранять нечего)</string>
+        <string key="Exception_6">Невозможно загрузить 3D модель</string>
+        <string key="Exception_7">Невозможно загрузить комнату полностью\(путь к её некоторым частям неверный)</string>
+
+        <string key="Input_1">Введите длину и ширину комнаты\(значения должны быть указаны в метрах)</string>
+        <string key="Input_2">Введите высоту комнаты\(значения должны быть указаны в метрах)</string>
+        <string key="Input_3">Введите название комнаты</string>
+        <string key="Input_4">Введите ширину и длину\изображения (значения должны\быть указаны в метрах)</string>
+
+        <string key="Input_Exception_1">Введено неверное значение</string>
+        <string key="Input_Exception_2">Введено слишком большое значение\(вводимые значения должны быть\не больше 10 метров)</string>
+        <string key="Input_Exception_3">Введено слишком маленькое значение\(вводимые значения должны быть\больше 2 метров)</string>
+        <string key="Input_Exception_4">Введено слишком большое значение\(вводимые значения должны быть\не больше 5 метров)</string>
+        <string key="Input_Exception_5">Введено неверное значение\(уже существует комната\с таким именем)</string>
+        <string key="Input_Exception_6">Введено слишком большое значение\(вводимые значения должны быть\не больше 5 метров)</string>
+        <string key="Input_Exception_7">Введено слишком маленькое значение\(вводимые значения должны быть\больше 0.2 метров)</string>
+
+        <string key="Information">Вы хотите сохранить изменения?</string>
+
+        <string key="FileChoosing">Выберете файл:</string>
+        <string key="Nothing to show">Ничего не найдено</string>
+
+        <string key="Furniture_1">Название мебели</string>
+        <string key="Furniture_2">Текстура мебели</string>
+
+        <string key="Format_1">OBJ-файл</string>
+        <string key="Format_2">PNG-файл</string>
+        <string key="Format_3">MTL-файл</string>
+
+        <string key="Floor">Пол</string>
+        <string key="Wall">Стена</string>
+        <string key="Furniture">Мебель</string>
+
+        <string key="Dimension_1">Ширина</string>
+        <string key="Dimension_2">Длина</string>
+        <string key="Dimension_3">Высота</string>
+        <string key="Dimension_4">Материал</string>
+        <string key="Dimension_5">Размеры</string>
+        <string key="Dimension_6">Мебель</string>
+
+        <string key="Number_1">Первая</string>
+        <string key="Number_2">Вторая</string>
+        <string key="Number_3">Третья</string>
+        <string key="Number_4">Четвёртая</string>
+
+        <string key="Room_name_1">Гостиная</string>
+        <string key="Room_name_2">Спальня</string>
+        <string key="Room_name_3">Кухня</string>
+        <string key="Room_name_4">Ванная</string>
+        <string key="Room_name_5">Прихожая</string>
+    </lang>
+
+
+    <lang key="de">
+        <string key="LanguageField">Sprache:</string>
+        <string key="SoundField">Klang:</string>
+        <string key="Language">Deutsch</string>
+
+        <string key="Settings">Einstellungen</string>
+        <string key="Exit">Ausfahrt</string>
+        <string key="Create new room">Neuen Raum</string>
+
+        <string key="ButtonSave">Speichern</string>
+        <string key="ButtonDelete">Nicht\speichern</string>
+        <string key="ButtonCancel">Stornierung</string>
+
+        <string key="Import">Importieren</string>
+        <string key="Create floor">Boden schaffen</string>
+        <string key="Create walls">Wände schaffen</string>
+        <string key="Save">Speichern</string>
+
+        <string key="Exception_1">Raum kann nicht importiert werden\(es gibt bereits einen Raum\auf dem Feld)</string>
+        <string key="Exception_2">Boden kann nicht erstellt werden\(es gibt bereits ein Boden\auf dem Feld)</string>
+        <string key="Exception_3">Wände können nicht erstellt werden\(der Boden wurde noch nicht\erstellt oder die Wände\wurden bereits erstellt)</string>
+        <string key="Exception_4">Raum kann nicht gespeichert werden\(ungültiger Dateiname angegeben)</string>
+        <string key="Exception_5">Raum kann nicht gespeichert werden\(es gibt nichts zu speichern)</string>
+        <string key="Exception_6">3D-Modell kann nicht geladen werden</string>
+        <string key="Exception_7">Der Raum kann nicht vollständig geladen werden\(Pfade zu einigen Teilen sind falsch)</string>
+
+        <string key="Input_1">Geben Sie die Länge und Breite des Raums ein\(Werte sollen in Metern angegeben werden)</string>
+        <string key="Input_2">Geben Sie die Höhe Ihres Zimmers ein\(Werte sollen in Metern angegeben werden)</string>
+        <string key="Input_3">Raumnamen eingeben</string>
+        <string key="Input_4">Geben Sie die Breite und Länge\des Bildes ein (Werte sollten\in Metern angegeben werden)</string>
+
+        <string key="Input_Exception_1">Ungültiger Wert angegeben</string>
+        <string key="Input_Exception_2">Der eingegebene Wert ist zu groß\(Eingabewerte dürfen nicht sein\mehr als 10 meter)</string>
+        <string key="Input_Exception_3">Der eingegebene Wert ist zu klein\(Eingabewerte müssen sein\mehr als 2 Meter)</string>
+        <string key="Input_Exception_4">Der eingegebene Wert ist zu groß\(Eingabewerte dürfen nicht sein\mehr als 5 Meter)</string>
+        <string key="Input_Exception_5">Ungültiger Dateiname angegeben\(Es gibt bereits ein Zimmer\mit diesem Namen)</string>
+        <string key="Input_Exception_6">Der eingegebene Wert ist zu groß\(Eingabewerte dürfen nicht sein\mehr als 5 Meter)</string>
+        <string key="Input_Exception_7">Der eingegebene Wert ist zu klein\(Eingabewerte müssen sein\mehr als 0.2 Meter)</string>
+
+        <string key="Information">Möchten Sie die Änderungen speichern?</string>
+
+        <string key="FileChoosing">Datei wählen:</string>
+        <string key="Nothing to show">Nichts gefunden</string>
+
+        <string key="Furniture_1">Möbel Name</string>
+        <string key="Furniture_2">Möbel Textur</string>
+
+        <string key="Format_1">OBJ-Datei</string>
+        <string key="Format_2">PNG-Datei</string>
+        <string key="Format_3">MTL-Datei</string>
+
+        <string key="Floor">Boden</string>
+        <string key="Wall">Wand</string>
+        <string key="Furniture">Möbel</string>
+
+        <string key="Dimension_1">Breite</string>
+        <string key="Dimension_2">Länge</string>
+        <string key="Dimension_3">Höhe</string>
+        <string key="Dimension_4">Material</string>
+        <string key="Dimension_5">Größen</string>
+        <string key="Dimension_6">Möbel</string>
+
+        <string key="Number_1">Erste</string>
+        <string key="Number_2">Zweite</string>
+        <string key="Number_3">Dritte</string>
+        <string key="Number_4">Vierte</string>
+
+        <string key="Room_name_1">Wohnzimmer</string>
+        <string key="Room_name_2">Schlafzimmer</string>
+        <string key="Room_name_3">Küche</string>
+        <string key="Room_name_4">Badezimmer</string>
+        <string key="Room_name_5">Flur</string>
+    </lang>
+</languages>

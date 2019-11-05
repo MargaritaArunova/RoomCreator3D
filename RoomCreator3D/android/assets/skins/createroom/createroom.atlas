@@ -1,0 +1,99 @@
+
+createroom.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+comic-black
+  rotate: false
+  xy: 1, 761
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+comic-white
+  rotate: false
+  xy: 1, 247
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+add-button-down
+  rotate: false
+  xy: 515, 1029
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+add-button-up
+  rotate: false
+  xy: 597, 1111
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+back-button-down
+  rotate: false
+  xy: 515, 1193
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+back-button-up
+  rotate: false
+  xy: 1, 165
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+create-floor-button
+  rotate: false
+  xy: 515, 1111
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+create-walls-button
+  rotate: false
+  xy: 617, 1193
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+edittable-background
+  rotate: false
+  xy: 699, 1193
+  size: 80, 80
+  split: 22, 22, 22, 22
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+import-button
+  rotate: false
+  xy: 1, 83
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+null
+  rotate: false
+  xy: 83, 138
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+save-button
+  rotate: false
+  xy: 103, 165
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+table-background
+  rotate: false
+  xy: 1, 1
+  size: 80, 80
+  split: 22, 22, 22, 22
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

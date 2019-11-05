@@ -1,0 +1,232 @@
+
+joystick.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+down-arrow-down
+  rotate: false
+  xy: 1, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+down-arrow-up
+  rotate: false
+  xy: 83, 83
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+down-down
+  rotate: false
+  xy: 1, 411
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+down-up
+  rotate: false
+  xy: 1, 329
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+knob-down
+  rotate: false
+  xy: 247, 329
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+knob-up
+  rotate: false
+  xy: 329, 411
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+left-arrow-down
+  rotate: false
+  xy: 165, 165
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+left-arrow-up
+  rotate: false
+  xy: 247, 247
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+left-down
+  rotate: false
+  xy: 83, 411
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+left-up
+  rotate: false
+  xy: 1, 247
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+minus-down
+  rotate: false
+  xy: 83, 329
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+minus-up
+  rotate: false
+  xy: 165, 411
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+null
+  rotate: false
+  xy: 329, 138
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+ok-down
+  rotate: false
+  xy: 411, 247
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+ok-up
+  rotate: false
+  xy: 247, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+plus-up
+  rotate: false
+  xy: 1, 165
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+pus-down
+  rotate: false
+  xy: 83, 247
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+right-arrow-down
+  rotate: false
+  xy: 329, 329
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+right-arrow-up
+  rotate: false
+  xy: 411, 411
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+right-down
+  rotate: false
+  xy: 165, 329
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+right-up
+  rotate: false
+  xy: 247, 411
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+rotate-x-down
+  rotate: false
+  xy: 329, 165
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+rotate-x-up
+  rotate: false
+  xy: 247, 165
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+rotate-y-down
+  rotate: false
+  xy: 329, 247
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+rotate-y-up
+  rotate: false
+  xy: 411, 329
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+rotate-z-down
+  rotate: false
+  xy: 165, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+rotate-z-up
+  rotate: false
+  xy: 247, 83
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+slider
+  rotate: false
+  xy: 165, 247
+  size: 80, 80
+  split: 36, 36, 20, 20
+  pad: 0, 0, 0, 0
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+up-arrow-down
+  rotate: false
+  xy: 83, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+up-arrow-up
+  rotate: false
+  xy: 165, 83
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+up-down
+  rotate: false
+  xy: 1, 83
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+up-up
+  rotate: false
+  xy: 83, 165
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
